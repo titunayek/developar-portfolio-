@@ -1,0 +1,72 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+h1 {
+    font-size: 50px;
+    
+}
+.orange-color {
+    color:orange;
+}
+section {
+    display:flex;
+    margin-bottom: 10%;
+}
+
+.half-width {
+    with:50%;
+    padding-left: 5%;
+}
+.half-width img {
+    width: 80%;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color:white;
+    font-weight:700px;
+    border-radius: 5px;
+}
+.blog {
+    display:flex;
+}
+.end {
+    width:35%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-radius:20px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(65, 12, 240),rgb(230, 14, 96));
+    border-image-slice: 1;
+}
+.end h3 {
+    font-size: 30px;
+}
+.end2 h3 {
+    font-size: 30px;
+}
+.end2{ 
+    width:35%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(255, 136, 0),rgb(70, 177, 20));
+    border-image-slice: 1;
+}
+
+}
+.blog h1{
+    padding-right:4%;
+}
+     
+#f1 {
+    text-align:center;
+}
